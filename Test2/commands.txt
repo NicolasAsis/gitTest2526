@@ -1,0 +1,11 @@
+Q1:
+
+3) Went to Github.com and signed in
+   Created new repository with the name "gitTest2526"
+
+4) Copied the repository link 
+   git clone https://github.com/NicolasAsis/gitTest2526.git
+
+5) mv ~/desktop/Test2 ~/desktop/gitTest2526/
+
+6) 
