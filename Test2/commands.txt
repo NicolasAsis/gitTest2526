@@ -8,4 +8,59 @@ Q1:
 
 5) mv ~/desktop/Test2 ~/desktop/gitTest2526/
 
-6) 
+6) git add Test2
+   git commit -m "adding test2"
+   git push -u origin master
+
+7) nano repo.txt
+
+8) git add repo.txt
+   git commit -m "added github link inside"
+   git push -u origin master
+
+9) nano index.html
+
+10) Typed in a.<!DOCTYPE html>
+             b.<html>
+             c.</html>
+
+11) git add index.html
+    git commit -m "created index.html"
+    git push -u origin master
+
+Q2:
+
+1) cd ~/desktop/gitTest2526
+   git tag "ver1.00"
+   git push -u origin ver1.00
+
+2) git branch special_feature
+
+3) git checkout special_feature
+
+4) Just did it
+
+5) cat ~/desktop/assets/myfile.bak | grep myhtml
+   nano index.html
+   Copy and paste
+
+6) git add index.html
+   git commit -m "first change to index.html"
+   git push -u origin special_feature
+
+7) cat ~/desktop/assets/myfile.bak | grep myjs > ~/desktop/gitTest2526/index.js
+
+8) git add index.js
+   git commit -m "add index.js"
+   git push -u origin special_feature
+
+9) cat ~/desktop/assets/myfile.bak | grep mycss > ~/desktop/gitTest2526/index.css
+
+10) git add index.css
+    git commit -m "add index.css"
+    git push -u origin special_feature
+
+11) git checkout master
+    git merge special_feature
+
+12) 
